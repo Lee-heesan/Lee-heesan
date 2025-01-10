@@ -4,7 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-heesan&layout=compact&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heesan6615)](https://solved.ac//)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-heesan&show_icons=true&theme=tokyonight) 
 
 </div>
 
