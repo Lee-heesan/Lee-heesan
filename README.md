@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
 </div>
 
----
+
 
 ## 📬 Contact Me
 
@@ -45,4 +45,3 @@
   <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 </a>
 
----
