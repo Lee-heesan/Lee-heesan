@@ -11,7 +11,7 @@
 ## 💪 Skills
 
 ### Platforms & Languages
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -24,7 +24,7 @@
 </div>
 
 ### Tools
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
@@ -33,14 +33,14 @@
 
 
 ## 📬 Contact Me
-
-<a href="https://velog.io/@heesan/posts">
-  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white">
-</a>
-<a href="mailto:heesan2580@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white">
-</a>
-<a href="mailto:heesan6615@naver.com">
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
-</a>
-
+<div align="center">
+  <a href="https://velog.io/@heesan/posts">
+    <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white">
+  </a>
+  <a href="mailto:heesan2580@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  <a href="mailto:heesan6615@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+  </a>
+</div>
