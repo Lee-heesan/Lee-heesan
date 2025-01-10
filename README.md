@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
 
@@ -36,6 +38,10 @@
 <div align="center">
   <a href="https://velog.io/@heesan/posts">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/hee_san_e/">
+    <img
+      src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
   <a href="mailto:heesan2580@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white">
