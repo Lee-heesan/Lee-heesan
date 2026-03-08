@@ -91,7 +91,7 @@ GPU 기반 이미지 가속 압축 소프트웨어 개발 (BMP → TIFF) / **SEM
 💡 <a href="https://github.com/ReView-Project-Team-06-DevKindergarten/review-ai-interview-project" target="_blank"><b>Re:View</b></a> (Web, 2025.07 ~ 2025.08)  
 AI 기반 맞춤형 모의 면접 및 피드백 제공 **온라인 AI 화상 면접 서비스**
 
-🏁 <a href="https://aptzip.hssu.dev/" target="_blank"><b>APT.ZIP</b></a> (Web, 2024.07 ~ 2024.12)  
+🏁 <a href="https://aptzip.hssu.dev/" target="_blank"><b>APT.ZIP</b></a> (Web, 2025.05 ~ 2025.06)  
 생성형 AI + 공공데이터 기반 주거 추천 / **부동산 실거래가 조회 서비스**
 
 ---
